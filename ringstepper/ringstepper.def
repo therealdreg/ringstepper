@@ -1,0 +1,8 @@
+EXPORTS
+
+DebugExtensionInitialize
+DebugExtensionUninitialize
+DebugExtensionNotify
+help
+z
+printssdt
