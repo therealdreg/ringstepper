@@ -1,4 +1,4 @@
-# I AM WRITING THE README YET, PLEASE BE PATIENT X)
+Please, consider make a donation: https://github.com/sponsors/therealdreg
 
 # ringstepper
 Windbg plugin easy-step from user code to kernel code. 
